@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#bale2 .logo3 img{
+    width: 150px;
+}
+#bale2 .container2 {
+    text-align: center;
+}
+#bale2 .container2{
+    margin: auto;
+    width: 300px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 40px 30px;
+}
+
+#bale2 .wrapper2{
+    margin-bottom: 10px;
+    position: relative;
+}
+#bale2 .wrapper2 input{
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+}
+#bale2 .wrapper2 p{
+    text-align: left;
+    margin-bottom: 5px;
+}
+#bale2 .container2 button{
+    width: 100%;
+    height: 35px;
+    background-color: rgb(189, 12, 12);
+}
+#bale2 .titi2{
+    border: 1px solid;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 14px;
+}
+#bale2 .titi2:hover{
+    cursor: pointer;
+    background-color: rgb(70, 247, 16);
+}
+
+#bale2 .rest2{
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+
+.bale2 .container2 .form2 .wrapper2 div{
+    color: red;
+    float: left;
+    
+}
